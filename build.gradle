@@ -21,6 +21,7 @@ allprojects {
         
     }
 }
+// I am jeet and i added this line
 
 task clean(type: Delete) {
     delete rootProject.buildDir
